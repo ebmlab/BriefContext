@@ -13,5 +13,5 @@ This work enhances reliable and efficient use of long-context information in RAG
 
 Copyright (c) 2023 Weng Lab at Columbia University
 
-Distributed under the terms of the [MIT](https://github.com/bionlplab/medtext/blob/master/LICENSE) license, 
+Distributed under the terms of the [MIT](https://github.com/ebmlab/BriefContext/) license, 
 EvidenceOutcomes is free and open-source.
