@@ -9,3 +9,9 @@ This repository contains the code and resources for **BriefContext**, a novel fr
 
 This work enhances reliable and efficient use of long-context information in RAG pipelines, improving accuracy and reliability for large language models in healthcare applications.
 
+## License
+
+Copyright (c) 2023 Weng Lab at Columbia University
+
+Distributed under the terms of the [MIT](https://github.com/bionlplab/medtext/blob/master/LICENSE) license, 
+EvidenceOutcomes is free and open-source.
